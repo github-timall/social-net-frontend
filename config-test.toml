@@ -1,0 +1,3 @@
+Mysql = "web:web@tcp(localhost:3306)/social"
+Memcache = "localhost:11211"
+Bind = "localhost:9090"
